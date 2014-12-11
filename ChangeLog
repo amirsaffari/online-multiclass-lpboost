@@ -1,0 +1,10 @@
+2010-05-06  Amir Saffari <amir@ymer.org>
+
+	* Release 0.11:
+	* Bug fix in RandomTest class which was previously choosing only
+	integer thresholds (thanks to Andreas Geiger for pointing out the
+	problem).
+
+2010-04-18  Amir Saffari <amir@ymer.org>
+
+	* Release 0.1

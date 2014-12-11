@@ -1,0 +1,15 @@
+In order to build the OMCLPBoost package, you need to install these libraries:
+
+* libconfig: C/C++ Configuration File Library
+  http://www.hyperrealm.com/libconfig/
+  Version used for this package: 1.4.4
+
+* Eigen2: C++ template library for linear algebra
+  http://eigen.tuxfamily.org/index.php?title=Main_Page
+  Version used for this package: 2.0.12
+
+After installing the dependencies, just run the:
+
+make
+
+This should build the "OMCLPBoost" binary.
