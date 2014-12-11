@@ -1,9 +1,9 @@
 Online Multi-Class LPBoost
 =========================
-Amir Saffari <amir@ymer.org>
 
-This is the original implementation of the Online Multi-Class LPBoost [1], Online Multi-Class Gradient Boost [1],
-and Online Random Forest algorithms [2]. Read the INSTALL file for build instructions.
+This is the original implementation of the Online Multi-Class LPBoost [1], Online Multi-Class Gradient Boost [1], and Online Random Forest algorithms [2]. 
+
+Read the INSTALL file for build instructions.
 
 Usage:
 ======
